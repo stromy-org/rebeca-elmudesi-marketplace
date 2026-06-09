@@ -1,0 +1,12 @@
+# Changes here will be overwritten by Copier; DO NOT edit manually.
+_commit: 75cb640
+_src_path: scaffolds/claude-marketplace-template
+author_name: William Masquelier
+client_name: Rebeca Elmudesi
+client_slug: rebeca-elmudesi
+github_org: stromy-org
+marketplace_name: Rebeca Elmudesi Plugin Marketplace
+marketplace_slug: rebeca-elmudesi-marketplace
+plugin_description: Self-service website and brand asset editing for Rebeca Elmudesi
+    via asset-broker
+plugin_slug: rebeca-elmudesi-plugin
