@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "rebeca-elmudesi-marketplace",
-  "description": "Plugin marketplace for Rebeca Elmudesi Claude Code plugins",
+  "description": "Plugin marketplace for Rebeca Elmudesi plugins",
   "owner": {
     "name": "stromy-org"
   },
@@ -9,7 +9,7 @@
     {
       "name": "rebeca-elmudesi",
       "description": "Self-service website and brand asset editing for Rebeca Elmudesi via asset-broker",
-      "version": "0.3.26",
+      "version": "0.3.27",
       "author": {
         "name": "William Masquelier"
       },
